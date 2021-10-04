@@ -12,19 +12,11 @@
 ## Xin quyền
 
 - Liên hệ admin để xin quyền thêm bài.
-  1. Sơn Đinh
-      Email: sondc99@gmail.com
-      Facebook: https://www.facebook.com/sonanhnb/
-  2. Hải Trịnh
-  Email: trinhxhai@gmail.com
-  Facebook: https://www.facebook.com/profile.php?id=100010755634310
-  3. Thắng Phan
-  Email: pdthang2000@gmail.com
-  Facebook: https://www.facebook.com/thang.phan.184881
-  4. Tuấn Anh
-  Email: letuananh14122000@gmail.com
-  Facebook: https://www.facebook.com/tuanssanhss.le
-
+1. Sơn Đinh (Email: sondc99@gmail.com, Facebook: https://www.facebook.com/sonanhnb/)
+2. Hải Trịnh (Email: trinhxhai@gmail.com, Facebook: https://www.facebook.com/profile.php?id=100010755634310)
+3. Thắng Phan (Email: pdthang2000@gmail.com, Facebook: https://www.facebook.com/thang.phan.184881)
+4. Tuấn Anh (Email: letuananh14122000@gmail.com, Facebook: https://www.facebook.com/tuanssanhss.le)
+	
 ## Hướng dẫn.
 
 - Truy cập http://olp.hou.edu.vn/, đăng nhập.
