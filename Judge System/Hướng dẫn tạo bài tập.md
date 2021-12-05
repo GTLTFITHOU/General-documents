@@ -42,14 +42,14 @@
 
   - Công khai.
     - Thường các bài tập chia làm 2 mục đích, luyện tập và contest sắp tới, nếu là cho contest sắp tới thì ae không cần tích trường này. 
-    - Các bài trong contest đến giờ sẽ tự động public, tuy nhiên sau khi hết contest ae sẽ phải vào tích lại trường này để có thể nộp lại bài này.
-  - Bài toán.
+    - Các bài trong contest đến giờ sẽ tự động public để các thí sinh tham gia có thể đọc đề, tuy nhiên sau khi hết contest ae sẽ phải vào tích lại trường này để các thí sinh có thể nộp lại bài này.
+  - Bài toán (Đề bài).
     - Mình sẽ hướng dẫn cách viết đề bài sao cho dễ nhìn hơn ở mục dưới.
   - Kiểu vấn đề (Problems Types)
     - Là mục nhỏ hơn của **Nhóm đề bài (Problems Groups)**.
     - Vd : Chặt nhị phân với số thực, Chặt nhị phân với tổng tiền tố, ICPC Graphs Problems.
   - Nhóm của đề bài (Problems Groups)
-    - Khi tìm kiếm sẽ có select box lọc theo trường này.
+    - Khi trang web khi tìm kiếm problemssẽ có select box lọc theo trường này, ae chú ý đặt sao cho có hệ thống, vd ae muốn tìm các problems cho beginner thì chỉ cần 1 lân.
     - Vd : Luyện tập ICPC, Luyện Tập OLP, Graphs, DP , Chặt nhị phân.
   - Giới hạn bộ nhớ :
     - Thường nếu vấn đề của ae không liên quan đến bộ nhớ, hay không yêu cầu vệ bộ nhớ thì có thể để là 524288 (tương đương với 512 mb).
